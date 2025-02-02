@@ -1,5 +1,6 @@
 import argparse
-from prompt_config import * 
+from prompt_config import *
+import pandas as pd
 
 # Initialize variables based on model selection
 def inizialize(args):
