@@ -1,5 +1,5 @@
 import argparse
-intro_marker_phi = "You are an assistant for question-answering tasks about maritime domain. Use the following pieces of retrieved context to answer the question. If you don't know the answer, just say that you don't know. Use three sentences maximum and keep the answer concise."
+intro_marker_phi = "You are an assistant for question-answering tasks about medical domain. Use the following pieces of retrieved context to answer the question. If you don't know the answer, just say that you don't know. Use three sentences maximum and keep the answer concise."
 context_marker_phi = "Context: "
 end_context_marker_phi = f"""<|end|>
 <
